@@ -1,0 +1,31 @@
+body {
+    font-family: Arial;
+    color: #7b2c8f;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #6a297e;
+    color: #ffffff;
+    padding: 40px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 50px;
+}
+
+header p {
+    font-size: 20px;
+}
+
+.skills {
+    margin: 50px;
+}
+
+
+.skills li {
+    padding: 12px;
+    font-size: 16px;
+}
